@@ -13,8 +13,8 @@ TECHNOLOGIES: React, Redux, Electron, JavaScript, SQL, HTML, CSS, D3, Firebase, 
 ## Installation
 First, clone the repository through git and change to the new directory:
 ```
-git clone https://github.com/dataLabApp/dataLabApp.git
-cd dataLabApp
+git clone https://github.com/Excellent1212/React-D3-Dashboard.git
+cd React-D3-Dashboard
 ```
 Then install the required dependencies:
 ```
@@ -49,13 +49,6 @@ npm start
 
 ### Share Visualizations
 ![dataLab Screenshot 8](./assets/gifs/sharing.gif "dataLab")
-
-
-## Contributors
-* [Andrew Hookom](https://www.linkedin.com/in/ahookom/)
-* [Bruce Grugett](https://www.linkedin.com/in/bruce-grugett/)
-* [Mandi Meidlinger](https://www.linkedin.com/in/mandi-meidlinger/)
-* [Sara Al Mughairy](https://www.linkedin.com/in/sawra/)
 
 ## License
 MIT © Andrew Hookom, Bruce Grugett, Mandi Meidlinger, Sara Al Mughairy
